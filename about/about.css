@@ -63,7 +63,7 @@ table {
 .showarea-2 {
     opacity: 0.9;
     background-color: white;
-    height: 350px;
+    height: 330px;
     margin: 0.5% 0 0 10%;
     float: left;
     width: 38%;
@@ -73,7 +73,7 @@ table {
 .showarea-3 {
     opacity: 0.9;
     background-color: white;
-    height: 350px;
+    height: 330px;
     float: left;
     width: 38.3%;
     margin: 0.5% 0 0 0.5%;
@@ -153,35 +153,35 @@ table {
 }
 
 .skill .progress .green {
-    background: #f32d2d;
+    background: #35875f;
 }
 
 .skill .progress .yellow {
-    background: #d87319;
+    background: #f1c615;
 }
 
 .skill .progress .red {
-    background: #d8b019;
+    background: #d82028;
 }
 
 .skill .progress .orange {
-    background: #73d819;
+    background: #c85828;
 }
 
 .skill .progress .blue {
-    background: #19d88a;
+    background: #42b8c0;
 }
 
 .skill .progress .cyan {
-    background: #19d8d1;
+    background: #ee6f4e;
 }
 
 .skill .progress .violet {
-    background: #084ef3;
+    background: #821d3b;
 }
 
 .skill .progress .pink {
-    background: #f308df;
+    background: #a96c5a;
 }
 
 @media (min-width:750px) {
